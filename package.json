@@ -1,0 +1,13 @@
+{
+  "name": "diomecypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "node:": "22.14.0",
+  "scripts": {
+    "Cypress": "npx cypress open",
+    "Cypress: Headless": "npx cypress run --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
